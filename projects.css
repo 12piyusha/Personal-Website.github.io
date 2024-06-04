@@ -1,0 +1,114 @@
+.middle {
+  background-color: #90afc5;
+  height: 130vh;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  margin-top: 1px;
+  margin-bottom: 10%;
+  width: 80%;
+}
+
+.my{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: 10px;
+    position: relative;
+    left:400px;
+  }
+  .cal h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: -50px;
+    color:rgb(20, 104, 20);
+  }
+.cal img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: -450px;
+}
+.cal div{
+    position: relative;
+    top: -100px;
+    left: 100px;
+    width: 600px;
+}
+.cal div p{
+    font-size: 17px;
+    font-weight: bold;
+}
+.gym h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: -80px;
+    margin-left: -50px;
+    color:rgb(20, 104, 20);
+}
+.gym img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: -450px;
+}
+.gym div{
+    position: relative;
+    top: -100px;
+    left: 100px;
+    width: 600px;
+}
+.gym div p{
+    font-size: 17px;
+    font-weight: bold;
+}
+.personal h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: -50px;
+    color:rgb(20, 104, 20);
+}
+.personal img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: -450px;
+}
+.personal div{
+    position: relative;
+    top: -100px;
+    left: 100px;
+    width: 600px;
+}
+.personal div p{
+    font-size: 17px;
+    font-weight: bold;
+}
+.phone h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: -50px;
+    color:rgb(20, 104, 20);
+}
+.phone img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 0px;
+    left: -450px;
+}
+.phone div{
+    position: relative;
+    top: -100px;
+    left: 100px;
+    width: 600px;
+}
+.phone div p{
+    font-size: 17px;
+    font-weight: bold;
+}
